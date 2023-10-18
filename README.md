@@ -1,0 +1,1 @@
+# mohirdev-python-vazifalar
